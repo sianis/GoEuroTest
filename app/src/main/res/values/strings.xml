@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GoEuroTest</string>
+    <string name="hint_from">From: City, Town or Village</string>
+    <string name="hint_to">To: City, Town or Village</string>
+    <string name="label_search">Search</string>
+    <string name="description_date_picker">Open date picker</string>
+    <string name="warning">Warning</string>
+    <string name="search_not_implemented">Search is not yet implemented</string>
+    <string name="select">Select</string>
+    <string name="choose_departure">Choose departure</string>
+    <string name="choose_arrival">Choose arrival</string>
+</resources>
